@@ -1,0 +1,4 @@
+ultralytics==8.2.42
+onnx==1.14.0
+onnxruntime==1.15.1
+opencv-python==4.9.0.80
